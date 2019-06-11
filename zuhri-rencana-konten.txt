@@ -4,3 +4,5 @@ rencana konten zuhri
 - ondel ondel
 - vlog
 framework javascript
+*pyton
+*angular
