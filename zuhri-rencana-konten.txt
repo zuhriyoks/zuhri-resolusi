@@ -1,5 +1,6 @@
 rencana konten zuhri
 
 - bawain duit
-ondel ondel
-vlog
+- ondel ondel
+- vlog
+framework javascript
